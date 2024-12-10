@@ -3,7 +3,8 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-        Designed And Developed By CodeWithZeeshu
+        <p>Developed by Mansi<br>
+  <a href="mailto:mansi@example.com">mansi@example.com</a></p>
     </footer>
   )
 }
